@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+**Educación** :mortar_board:
+
+* **Licenciatura en Economía**, Universidad Nacional del Nordeste
+* **Maestría en Estadística Aplicada**, Universidad Nacional de Córdoba
+
+**Certificaciones**
+
+* 
+
 <!--
 **celinecabas/celinecabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
