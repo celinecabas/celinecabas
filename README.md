@@ -1,13 +1,29 @@
-## Hi there👋
+## 👋 Hola, soy Celine Cabás
 
+Data Scientist con sólida formación en estadística y más de 4 años de experiencia aplicando análisis avanzado, modelado
+predictivo y machine learning para optimizar procesos y apoyar la toma de decisiones. He trabajado con múltiples organismos y
+empresas, desarrollando modelos predictivos, diseñando indicadores automatizados y generando insights accionables. Poseo
+sólida experiencia en Python, R, SQL así como en visualización de datos para comunicar resultados. Me destaco por mi capacidad
+de colaborar con equipos multidisciplinarios y alinear soluciones de datos con los objetivos estratégicos de la organización,
+aportando innovación y resultados basados en evidencia.
 
+### 💼 Experiencia laboral
 
-## **Experiencia profesional**
+- **Data Scientist & BI Analyst** — SUDATA  
+  Chaco, Argentina | 2024 – Present
 
-* **Data Scientist | Analista BI** - SUDATA - Chaco, Argentina (2024-Actualidad)
-* **Analista estadístico** - Dirección Provincial de Información Estadística y Territorial - Chaco, Argentina (2023-2025)
-* **Analista de datos** - ECOM Chaco SA - Chaco, Argentina (2021-2023)
-* **Consultora estadística** - Instituto Provincial de Estadística y Ciencia de Datos - Corrientes, Argentina (2023-2024)
+- **Geospatial Data Scientist** — FriWi / AiTENEA  
+  Buenos Aires (CABA), Argentina | 2025
+
+- **Data Scientist** — Dirección Provincial de Información Estadística y Territorial  
+  Chaco, Argentina | 2023 – 2025
+
+- **Data Scientist & Data Analyst** — ECOM Chaco S.A.  
+  Chaco, Argentina | 2021 – 2023
+
+- **Statistical Consultant** — Instituto Provincial de Estadística y Ciencia de Datos  
+  Corrientes, Argentina | 2023 – 2024
+
 
 ## **Experiencia docente**
 
