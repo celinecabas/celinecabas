@@ -5,7 +5,7 @@ predictivo y machine learning para optimizar procesos y apoyar la toma de decisi
 empresas, desarrollando modelos predictivos, diseñando indicadores automatizados y generando insights accionables. Poseo
 sólida experiencia en Python, R, SQL así como en visualización de datos para comunicar resultados.
 
-### 💼 Experiencia laboral
+## 💼 Experiencia laboral
 
 - **Data Scientist & BI Analyst** — SUDATA  
   Chaco, Argentina | 2024 – Present
@@ -26,9 +26,11 @@ sólida experiencia en Python, R, SQL así como en visualización de datos para 
 ## 🎓 Experiencia docente
 
 - **Docente Auxiliar de Econometría** — Licenciatura en Economía
+
   Facultad de Ciencias Económicas, UNNE  | 2023 – Actualidad
 
 - **Docente** — Diplomatura en Ciencia de Datos 
+
   Facultad de Ciencias Exactas, UNNE | 2024
 
 ## 🎓 Educación
