@@ -1,11 +1,9 @@
 ## 👋 Hola, soy Celine Cabás
 
-Data Scientist con sólida formación en estadística y más de 4 años de experiencia aplicando análisis avanzado, modelado
+**Data Scientist con sólida formación en estadística** y más de 4 años de experiencia aplicando análisis avanzado, modelado
 predictivo y machine learning para optimizar procesos y apoyar la toma de decisiones. He trabajado con múltiples organismos y
 empresas, desarrollando modelos predictivos, diseñando indicadores automatizados y generando insights accionables. Poseo
-sólida experiencia en Python, R, SQL así como en visualización de datos para comunicar resultados. Me destaco por mi capacidad
-de colaborar con equipos multidisciplinarios y alinear soluciones de datos con los objetivos estratégicos de la organización,
-aportando innovación y resultados basados en evidencia.
+sólida experiencia en Python, R, SQL así como en visualización de datos para comunicar resultados.
 
 ### 💼 Experiencia laboral
 
@@ -25,15 +23,18 @@ aportando innovación y resultados basados en evidencia.
   Corrientes, Argentina | 2023 – 2024
 
 
-## **Experiencia docente**
+## 🎓 Experiencia docente
 
-* Docente Auxiliar de Econometría - Facultad de Ciencias Económicas, UNNE (2023-Actualidad)
-* Docente en Diplomatura en Ciencia de Datos - Facultad de Ciencias Exactas, UNNE (2024)
+- **Docente Auxiliar de Econometría** — Licenciatura en Economía
+  Facultad de Ciencias Económicas, UNNE  | 2023 – Actualidad
 
-## **Educación** :mortar_board:
+- **Docente** — Diplomatura en Ciencia de Datos 
+  Facultad de Ciencias Exactas, UNNE | 2024
 
-* **Licenciatura en Economía**, Universidad Nacional del Nordeste
-* **Maestría en Estadística Aplicada**, Universidad Nacional de Córdoba
+## 🎓 Educación
+
+- **Licenciatura en Economía** — Universidad Nacional del Nordeste (UNNE)
+- **Maestría en Estadística Aplicada** — Universidad Nacional de Córdoba (UNC)
 
 ## **Herramientas**
 
