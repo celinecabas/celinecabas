@@ -7,8 +7,11 @@ sólida experiencia en Python, R, SQL así como en visualización de datos para 
 
 ## 💼 Experiencia laboral
 
+- **Data Scientist | Lead Analyst** — NTT DATA / LATAM Airlines
+  Santiago de Chile,  Chile | Buenos Aires, Argentina | 2026 – Present
+
 - **Data Scientist & BI Analyst** — SUDATA  
-  Chaco, Argentina | 2024 – Present
+  Chaco, Argentina | 2024 – 2026
 
 - **Geospatial Data Scientist** — FriWi / AiTENEA  
   Buenos Aires (CABA), Argentina | 2025
