@@ -26,7 +26,7 @@ sólida experiencia en Python, R, SQL así como en visualización de datos para 
 ### 📂 Proyectos destacados
 
 - **[AiTenea](https://celinecabas.github.io/projects/aitenea/)**: valuación automática de más de 450.000 parcelas con machine learning geoespacial.
-- **[Producto Bruto Geográfico](https://celinecabas.github.io/projects/pbg/)**: metodología y cálculo del PBG trimestral de Corrientes y Chaco ([repo](https://github.com/estadisticactes/PBG)).
+- **[Producto Bruto Geográfico](https://celinecabas.github.io/projects/pbg/)**: metodología y cálculo del PBG trimestral de Corrientes y Chaco.
 - **[Clustering de barrios](https://celinecabas.github.io/projects/clustering/)**: clasificación socioeconómica de los barrios de Córdoba con análisis multivariado.
 - **[Centronea](https://celinecabas.github.io/projects/centronea/)**: medición del tráfico web de una concesionaria, de GA4 a un tablero para el cliente.
 
